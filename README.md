@@ -26,3 +26,6 @@ Digital Input
 1:   White:   Solar Panel +
 2:   Black:   NC
 3:   Brown:   Solar Panel -
+
+Datasheet:   https://drive.google.com/open?id=1xmKzGO7dLAR1tqzt8R_LYASXED3Muv6v&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1wJOAWrsAMinDVcfW0LF5nUAFyOm-rz23&usp=drive_fs
