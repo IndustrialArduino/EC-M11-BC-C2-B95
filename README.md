@@ -27,5 +27,5 @@ Digital Input
 2:   Black:   NC
 3:   Brown:   Solar Panel -
 
-Datasheet:   https://drive.google.com/open?id=1xmKzGO7dLAR1tqzt8R_LYASXED3Muv6v&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1wJOAWrsAMinDVcfW0LF5nUAFyOm-rz23&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ec-m11-bc-c2-b95-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ec-m11-bc-c2-b95-user-guide/
